@@ -1,6 +1,6 @@
-# Hello, my name is Daniil!👋
+# 👋 Hello, my name is Daniil!
 
-I am a novice Go developer
+I am a novice Go developer(for now... I hope...^_^)
 
 ## 🔨 Example of my projects
 
