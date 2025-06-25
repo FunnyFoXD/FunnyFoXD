@@ -15,19 +15,27 @@ That's pretty much all you need to know about me... 🤫
 
 ### 💡 Languages & Frameworks:
 - **Go** — my main language of choice  
-- Go Web Frameworks: `Chi`, `Gin`  
+- Go Web Frameworks: `Chi`, `Gin`
+- Go external libs: `Viper`, `Zap` 
 - ORM & Messaging: `gORM`, `Apache Kafka`  
 - Working with databases (SQL, transactions, etc.)
 
 ### 🧰 DevOps:
 - Scripting & Shell: `Bash`  
-- Containerization: `Docker`, `Docker Compose`  
+- Containerization: `Docker`
+- Orchestration: `Docker Compose`, `Kubernetes`
 - OS: Unix-based systems
+- Authorization: `Ldap (Lldap)`, `Keycloak`
 
 ### 🗄️ Databases:
 - `PostgreSQL`  
-- `Redis`  
+- `Redis`
+- `SQLite`
 - `MySQL`
+
+### 🪵 Logging:
+- `Prometheus`
+- `Grafana`
 
 ### 🌐 Networking & Admin:
 - Reverse proxy & Web server: `Nginx`
