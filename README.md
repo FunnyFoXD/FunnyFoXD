@@ -7,7 +7,7 @@ I love developing everything in Go (mostly backend) and expanding my stack to in
 ## 🧑‍💻 About Me
 
 I'm a 2nd-year student at **Innopolis University**, majoring in **Computer and Engineering Sciences**.  
-That's pretty much all you need to know about me... 🤫
+That's pretty much all you need to know about me... for now 🤫
 
 ---
 
@@ -23,7 +23,7 @@ That's pretty much all you need to know about me... 🤫
 ### 🧰 DevOps:
 - Scripting & Shell: `Bash`  
 - Containerization: `Docker`
-- Orchestration: `Docker Compose`, `Kubernetes`
+- Orchestration: `Docker Compose`, `Kubernetes`, `Nova`
 - OS: Unix-based systems
 - Authorization: `Ldap (Lldap)`, `Keycloak`
 
